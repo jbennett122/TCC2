@@ -1,0 +1,1 @@
+TCC.d: ../TCC.cpp
